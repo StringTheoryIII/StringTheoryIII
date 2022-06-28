@@ -1,0 +1,5 @@
+
+In bosonic string theory, spacetime is 26-dimensional, 
+while in superstring theory it is 10-dimensional, 
+and in M-theory it is 11-dimensional
+
